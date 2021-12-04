@@ -1,2 +1,2 @@
-# OSAP AI and ML course 2022
-
+# LMHSummerSchool2021
+Project for LMH summer school 2021
